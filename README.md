@@ -70,7 +70,7 @@ For more information about these steps refer the Makefile in `verilog/test/`.
 
 MIPS Multicycle Datapah
 
-<img src="http://github.com/AdityaNG/mips-cpu/blob/master/img/fsm.png?raw=true" width="400">
+<img src="https://github.com/AdityaNG/mips-cpu/blob/master/img/fsm.jpeg?raw=true" width="400">
 
 # AUTHOR
 
