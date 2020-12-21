@@ -66,6 +66,12 @@ output file (.out) can be diffed against a known good output file
 
 For more information about these steps refer the Makefile in `verilog/test/`.
 
+# FSM 
+
+MIPS Multicycle Datapah
+
+<img src="http://github.com/AdityaNG/mips-cpu/blob/master/img/fsm.png?raw=true" width="400">
+
 # AUTHOR
 
 Jeremiah Mahler <jmmahler@gmail.com><br>
